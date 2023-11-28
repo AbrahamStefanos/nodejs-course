@@ -1,10 +1,21 @@
-20231123	01:09:16	b8f6b2cc-a355-440c-9d16-5537742f630d	/new-page.html	GET
-20231123	01:09:17	84839d9e-d9c5-4121-8779-57e99a0abaf8	/css/style.css	GET
-20231123	01:09:17	0a2fee20-21d7-44cb-82da-beb889da1d7c	/img/img1.jpg	GET
-20231123	01:09:18	92634922-d9cb-43f1-804c-c71bfdff34d9	/favicon.ico	GET
-20231123	01:10:17	931878e5-7a1b-4d70-88c7-e4b8935fc717	/new-page.html	GET
-20231123	01:11:03	5d8dc86d-d01d-42bf-9712-0eb8e4ef3f12	/new-page.html	GET
-20231123	01:11:03	bbb4ae30-c166-4406-ab23-e5f0f27202a5	/css/style.css	GET
-20231123	01:11:03	cdbe5ace-f367-4f9a-a6a1-588056cb5394	/img/img1.jpg	GET
-20231123	01:11:10	fcf992f1-4957-4eac-8442-38de0d017465	/	GET
-20231123	01:11:10	b2b3a3ee-4846-4057-bc08-deec18258c1f	/css/style.css	GET
+
+20231127	18:54:34	10a37639-c788-4739-867b-20132aa26e35	OPTIONS	https://www.google.com	/
+20231127	18:54:34	eec68266-9c95-4aca-b26b-6b9a9fcf04c7	GET	https://www.google.com	/
+20231127	18:59:05	0504b802-ff61-48f6-9d4a-158f6b764074	OPTIONS	https://www.google.com	/
+20231127	18:59:05	5d22ac97-e0de-4dd8-9bcb-a86c8b499f8c	GET	https://www.google.com	/
+20231127	18:59:42	b27e2f73-c578-49d3-880f-58a8d1635bd9	OPTIONS	https://www.google.com	/
+20231127	18:59:42	9f63669e-b7c6-46e1-b0f5-1442250a46c0	GET	https://www.google.com	/
+20231127	19:00:18	af8ec4a2-41ba-408f-98b7-cf590b82051f	OPTIONS	https://www.google.com	/
+20231127	19:00:18	8289f0c3-80c2-4bad-8b2e-6695c22a8744	GET	https://www.google.com	/
+20231127	19:02:17	9bc74d94-7cd0-4639-9641-9fcecd3f2e84	GET	undefined	/
+20231127	19:02:34	f094b7a0-9cb5-43d1-a5a5-021367e12b4f	GET	undefined	/
+20231127	19:03:23	c0d0771a-a935-43ba-aeea-59d59fcd92fe	GET	undefined	/
+20231127	19:03:23	4dd0473c-c777-486e-8e0f-d3a5c34efafa	GET	undefined	/css/style.css
+20231127	19:09:04	25d23227-9eac-4758-b15a-ad5a25204192	GET	undefined	/
+20231127	19:09:45	98975360-55cd-4cc4-8c44-2cac43e9e133	GET	undefined	/
+20231127	19:09:45	e22a3f2d-fbcb-403c-b11e-fe687d1bf37c	GET	undefined	/css/style.css
+20231127	19:10:36	688e747d-b6ff-49f2-a3e9-cda8eedde71b	GET	undefined	/chain
+20231127	19:11:57	fda4d1ce-351f-40a3-b4e2-96a8a4eddaeb	GET	undefined	/yoo
+20231127	19:11:57	5cafcb80-9963-4296-942d-fd2875c892dd	GET	undefined	/css/style.css
+20231127	19:15:23	617cdf47-b248-4fa8-8bde-9add172dd06c	GET	undefined	/yoo
+20231127	19:15:23	3e632005-95ea-49c8-a42a-6aecc70d4871	GET	undefined	/css/style.css
