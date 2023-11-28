@@ -1,2 +1,4 @@
 20231123	01:10:17	16fccf92-7865-4041-9ecf-e2dc9f4da267	TypeError: fsPromises.readFil is not a function
 20231127	19:09:04	e823ba5c-8514-4357-871b-763a0353a0f2	Error: Not allowed by CORS
+20231127	19:34:09	50ac87ab-2d53-4fd0-ae6a-5cc97eed0ff0	Error: ENOENT: no such file or directory, stat 'C:\Users\OWNER\Desktop\08tut\views\subdir\test.html'
+20231127	19:34:22	349e8c9a-8558-4ecf-9f3d-f04dbfbd46a7	Error: ENOENT: no such file or directory, stat 'C:\Users\OWNER\Desktop\08tut\views\subdir\test.html'
