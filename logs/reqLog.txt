@@ -97,3 +97,5 @@
 20240104	20:30:39	c6fb3a3e-dd50-49da-951a-c5ddcb4ff163	POST	undefined	/auth
 20240105	01:11:31	55e56627-7d2f-4f82-9b2b-2c7a2a2ab08b	POST	undefined	/auth
 20240105	01:11:53	5b18e09d-3b21-4537-8e5a-0b8fe8004b42	GET	undefined	/employees
+20240105	16:03:34	f334106a-664d-4b11-bd18-fc6b4702983d	POST	undefined	/register
+20240105	16:04:04	7d2b6b4b-d414-46dd-9b94-7027c9a95523	POST	undefined	/register
